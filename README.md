@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @excoff1
 - 👀 I’m interested in web-programm
 - 🌱 I’m currently learning html/css/js/python
-- 💞️ I’m looking to collaborate on me)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i can learn only one... html)
 
